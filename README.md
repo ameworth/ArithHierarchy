@@ -1,13 +1,5 @@
 # ArithHierarchy
 
-## GitHub configuration
+Ongoing project in the formalisation of the arithmetic hierarchy for Lean’s Mathlib. Started this project as a way to improve my Lean skills and to get involved with open source developing. \
 
-To set up your new GitHub repository, follow these steps:
-
-* Under your repository name, click **Settings**.
-* In the **Actions** section of the sidebar, click "General".
-* Check the box **Allow GitHub Actions to create and approve pull requests**.
-* Click the **Pages** section of the settings sidebar.
-* In the **Source** dropdown menu, select "GitHub Actions".
-
-After following the steps above, you can remove this section from the README file.
+Any tips on how this could be improved and advice on publishing to Lean’s Mathlib would be greatly appreciated!
